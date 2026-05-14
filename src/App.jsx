@@ -136,7 +136,7 @@ function App() {
 
             <div className="mt-8 flex justify-center gap-2 ">
               <a
-                href="https://basil-aladra.github.io/Basil-portfolio3/"
+                href="https://basilportfolio-kappa.vercel.app/"
                 class="btn btn-soft btn-info w-full rounded-xl"
               >
                 Portfolio
