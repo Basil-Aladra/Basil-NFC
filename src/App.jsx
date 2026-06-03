@@ -1,5 +1,7 @@
 import CoverImae from "./assets/coverImage-basil.png";
 import Proflie from "./assets/proflie-basil.png";
+import ButtonStitchesDemo from "./components/shadcn-studio/button/button-47";
+
 function App() {
   return (
     <>
@@ -135,12 +137,14 @@ function App() {
             </div>
 
             <div className="mt-8 flex justify-center gap-2 ">
-              <a
+              <ButtonStitchesDemo
                 href="https://basilportfolio-kappa.vercel.app/"
-                class="btn btn-soft btn-info w-full rounded-xl"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="w-full"
               >
                 Portfolio
-              </a>
+              </ButtonStitchesDemo>
             </div>
 
             <div className="mt-20 space-y-2">
