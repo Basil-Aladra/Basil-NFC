@@ -1,4 +1,4 @@
-import CoverImae from "./assets/coverImage-basil.png";
+import CoverImae from "../assets/covergif.gif";
 import Proflie from "./assets/proflie-basil.png";
 import ButtonStitchesDemo from "./components/shadcn-studio/button/button-47";
 
